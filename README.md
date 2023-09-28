@@ -8,7 +8,7 @@ My name is Gal and Im 23 years old.
 Notable Projects:
 
 * Arkanoid Game - Java
-* justice For All 2D Game - unity
+* Justice For All 2D Game - unity
 
 <!--
 **GalMansuryan/GalMansuryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
