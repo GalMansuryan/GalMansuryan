@@ -1,26 +1,33 @@
-### Hi there 👋
-My name is Gal and Im 23 years old.
+# Hi there, I'm Gal! 👋
 
-👨‍🎓 I’m currently studing for a Double major in Computer Science and Brain Science at Bar Ilan University.
+I'm a 23-year-old student currently pursuing a Double Major in Computer Science and Brain Science at Bar Ilan University. My passion lies in software development, and I'm actively seeking part-time job or internship opportunities in this field.
 
-💻 Looking for a part-time job or internship opportunities as a Software Developer.
+## 👩🏽‍🎓 Education
+- Double Major in Computer Science and Brain Science at Bar Ilan University.
 
-Notable Projects:
+## 💻 Skills
+- Software Development
+- Java
+- Unity
+- C
+- C#
+- Assembly
+- Python
 
-* Arkanoid Game - Java
-* Justice For All 2D Game - unity
+## 🚀 Notable Projects
 
-<!--
-**GalMansuryan/GalMansuryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Arkanoid Game - Java
+- **Description:** I developed an Arkanoid game using Java. It was a fantastic learning experience, and I enjoyed implementing game mechanics and enhancing user experience.
+- **GitHub Link:** https://github.com/GalMansuryan/Arkanoid
 
-Here are some ideas to get you started:
+### Justice For All 2D Game - Unity
+- **Description:** I worked on a 2D game titled "Justice For All" using Unity. This project challenged me to apply my programming skills in a game development context, and it was incredibly rewarding.
+- **GitHub Link:** https://github.com/GalMansuryan/JusticeForAllGame
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories for more projects and code contributions. I'm always eager to collaborate and continue my journey as a software developer.
+
+## Contact
+- **LinkedIn:** https://il.linkedin.com/in/gal-mansuryan-377062219
+- **Email:** galmanb0108@gmail.com
+
+Let's connect and create amazing software together! 😄
