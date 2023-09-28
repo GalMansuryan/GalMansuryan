@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Gal and Im 23 years old.
+
+👨‍🎓 I’m currently studing for a Double major in Computer Science and Brain Science at Bar Ilan University.
+
+💻 Looking for a part-time job or internship opportunities as a Software Developer.
+
+Notable Projects:
+
+* Arkanoid Game - Java
+* justice For All 2D Game - unity
 
 <!--
 **GalMansuryan/GalMansuryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
